@@ -1,12 +1,49 @@
-##Introduccion
-Realizamos una pratctica en clase, sobre un portafolio personal el cual contiene:
--Informacion personal.
--Proyectos realizados en la carrera. 
-Como bien sabemos en la actualidad existen nuevas tecnologias las cuales que debemos ir conociendo e implementando de una manera correcta a los futuros proyectos que vayamos a realizar. 
-Espor ellos que en esta practica utilizamos GitHub, GitHub de escritorio y Vercel. El GitHub de escritorio nos ayudo a poder subir los archivos al rebositorio web, en GitHub fueron alojados los archivos.
-Vercel tiene la funcion de que una vez que nostros yamos alojado los archivos, esta haga una importacion de dicho repositorio y de esta manera el proyecto sea visible-
-
-##Objetivo
-Comprender que nos solo exisiten las herramientas, programas o sitios, que cononocemosmpara poder elavorar un proyecto. Sino que existen otras alternativas, que nos pueden ayudar a elavorar y hacer mas facil la creacion de cada proyecto. Nos solo estancarnos en  todo lo que nostros ya conocemos.
-
-##Link de Vercel
+## Table of Contents
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [Collaboration](#collaboration)
+5. [FAQs](#faqs)
+### General Info
+***
+Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+### Screenshot
+![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+## Technologies
+***
+A list of technologies used within the project:
+* [Technologie name](https://example.com): Version 12.3 
+* [Technologie name](https://example.com): Version 2.34
+* [Library name](https://example.com): Version 1234
+## Installation
+***
+A little intro about the installation. 
+```
+$ git clone https://example.com
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
+```
+Side information: To use the application in a special environment use ```lorem ipsum``` to start
+## Collaboration
+***
+Give instructions on how to collaborate with your project.
+> Maybe you want to write a quote in this part. 
+> It should go over several rows?
+> This is how you do it.
+## FAQs
+***
+A list of frequently asked questions
+1. **This is a question in bold**
+Answer of the first question with _italic words_. 
+2. __Second question in bold__ 
+To answer this question we use an unordered list:
+* First point
+* Second Point
+* Third point
+3. **Third question in bold**
+Answer of the third question with *italic words*.
+4. **Fourth question in bold**
+| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
+|:--------------|:-------------:|--------------:|
+| text-align left | text-align center | text-align right |
