@@ -1,0 +1,102 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Estilos de la página de inicio */
+#inicio {
+    text-align: center;
+}
+
+/* Animación */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+h1, h2, p {
+    animation: fadeIn 1s ease-in-out;
+}
+
+.hero img {
+    max-width: 30%;
+    border-radius: 50%;
+    margin-bottom: 30px;
+
+}
+
+.pasatiempos img {
+    max-width: 17%;
+    border-radius: 6%;
+    margin-bottom: 25px;
+
+}
+
+.inicio img {
+    max-width: 17%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.proyectos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+
+.proyecto {
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.proyecto img {
+    max-width: 100%;
+}
